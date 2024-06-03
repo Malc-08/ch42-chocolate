@@ -1,0 +1,41 @@
+
+/* CSS type Selector */
+
+
+body{
+    background-color:rgb(123, 67, 175);
+    color:rgb(255, 166, 0);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    background-color:rgb(127, 204, 255);
+    color:rgb(247, 0, 169);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+h3{
+    color:lightgreen;
+}
+
+h5{
+    color:lightgreen;
+}
+
+button {
+    background-color:#ac0a5e;
+    color:#ffffff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor:pointer;
+}
+
+button:hover{
+    background-color:deeppink;
+}
+
+a {
+    color:lightgreen;
+}
